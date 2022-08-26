@@ -1,0 +1,104 @@
+header{
+
+    background-color: white;
+    height:80px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid gray;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 100px;
+    font-family: 'Aboreto', cursive;
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+    border: 1px solid burlywood;
+    padding:11px ;
+    margin-left: 26px;
+    background-color: skyblue;
+}
+
+a:hover{
+    background-color: gray;
+    text-transform: uppercase;
+    border-bottom:3px solid blue;
+}
+
+.rr{
+    text-transform: uppercase;
+}
+
+.gg{
+    color: red;
+    text-transform: uppercase;
+    font-family: 'Modak', cursive;
+}
+
+.hh{
+    color: black;
+    font-family: 'Modak', cursive;
+    text-align: center;
+}
+/* 
+.jj{
+    width: 800px;
+    
+}
+
+.jj:hover{
+    background-image: url(./programmer.png)
+} */
+
+.ll{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mm{
+    color: red;
+    font-family: 'Pacifico', cursive;
+}
+
+.nn{
+    font-family: 'Aboreto', cursive;
+}
+
+.div_img{
+    background-image: url(./Face\ boy.jpg);
+    height: 100vh;
+    width: 80vh;
+    overflow: hidden;
+}
+
+.div_img:hover{
+    background: url(./Roblox.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.bb{
+    border-top: 1px solid;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 3px;
+    height: 70px;
+}
+
+.bb p, span{
+    font-family: 'Courier New', Courier, monospace;
+    color:#000;
+    font-weight: bolder;
+    font-size: 18px;
+    padding-top: 80px;
+}
+.cc{
+    font-size: 90%;
+    color: #000;
+    font-family: 'Modak', cursive;
+    text-transform: uppercase;
+}

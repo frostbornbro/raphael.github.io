@@ -1,0 +1,41 @@
+section{
+    display:flex;
+}
+
+
+div{
+    width: 500px;
+    overflow: hidden;
+}
+form{
+    width: 500px;
+    margin: 0 auto;
+}
+
+input{
+    margin-bottom: 30px;
+    width: 100px;
+}
+
+textarea{
+    width: 100px;
+    height:150px;
+}
+
+button{
+    width: 100%;
+    color: black;
+    background-color: orange;
+    padding: 10px;
+
+}
+
+.RO{
+    text-align: center;
+   
+}
+
+.sect{
+     margin:100px;
+     width: 30px
+}
